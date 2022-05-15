@@ -1,4 +1,4 @@
-# The Magic 14 Lv3
+# The Magic 14 Lv5
 
 - [Original; EN]
   - https://forum.eveuniversity.org/viewtopic.php?f=29&t=81073
